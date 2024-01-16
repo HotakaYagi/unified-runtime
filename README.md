@@ -6,6 +6,7 @@
 [![Coverity](https://scan.coverity.com/projects/28213/badge.svg)](https://scan.coverity.com/projects/oneapi-src-unified-runtime)
 [![codecov.io](https://codecov.io/github/oneapi-src/unified-runtime/coverage.svg?branch=main)](https://codecov.io/github/oneapi-src/unified-runtime?branch=master)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/oneapi-src/unified-runtime/badge)](https://securityscorecards.dev/viewer/?uri=github.com/oneapi-src/unified-runtime)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Funified-runtime.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Funified-runtime?ref=badge_shield)
 
 <!-- TODO: add general description and purpose of the project -->
 
@@ -208,3 +209,7 @@ planned for a release have been accepted, the release process is defined as:
 
 [main-branch]: https://github.com/oneapi-src/unified-runtime/tree/main
 [new-github-release]: https://github.com/oneapi-src/unified-runtime/releases/new
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2Funified-runtime.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2Funified-runtime?ref=badge_large)
